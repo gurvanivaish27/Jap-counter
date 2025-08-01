@@ -1,0 +1,40 @@
+   
+   body {
+  height: 100vh;               /* Full screen height */
+  margin: 0;                   /* Remove default margin */
+  display: flex;               /* Use Flexbox */
+  justify-content: center;     /* Center horizontally */
+  align-items: center;         /* Center vertically */
+  background-color: #f0f8ff;
+
+}
+
+div {
+
+  padding: 40px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+h1{
+    
+    font-size: 20px;
+}
+
+button{
+    width: 120px;
+    height: 50px;
+    background-color: rgb(254, 13, 13);
+    color: white;
+    border-radius: 15px ;
+    align-self: center;
+    font-size: 15px;
+}
+
+.style{
+    font-size: 18px;
+    color: green;
+    font-weight: bold;
+}
